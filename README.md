@@ -1,0 +1,1 @@
+this is design of heat exchanger with the help of bell delaware and kern method using EDTR concept. the code contains the gui of heat exchanger design code. All chemical engineers can use this to design heat exchanger for double pipe and shell and tube heat exchanger.
